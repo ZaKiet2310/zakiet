@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\Controllers",
+    "\\Views",
+    "\\Views\\TaiKhoan",
+    "\\wwwroot",
+    "\\wwwroot\\css",
+    "\\wwwroot\\fonts",
+    "\\wwwroot\\images",
+    "\\wwwroot\\js"
+  ],
+  "SelectedNode": "\\wwwroot\\images",
+  "PreviewInSolutionExplorer": false
+}

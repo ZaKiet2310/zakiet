@@ -366,3 +366,4 @@ D:\github\zakiet\BaiTap06\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp
 D:\github\zakiet\BaiTap06\obj\Debug\net8.0\BaiTap06.csproj.AssemblyReference.cache
 D:\github\zakiet\BaiTap06\obj\Debug\net8.0\BaiTap06.MvcApplicationPartsAssemblyInfo.cs
 D:\github\zakiet\BaiTap06\obj\Debug\net8.0\BaiTap06.csproj.Up2Date
+D:\github\zakiet\BaiTap06\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout2.cshtml.rz.scp.css
