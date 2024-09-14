@@ -45,6 +45,10 @@
       "PackagePath": "staticwebassets\\images\\about-img.png"
     },
     {
+      "Id": "D:\\github\\zakiet\\BaiTapKiemTra01\\wwwroot\\images\\anhchup\\Capture.PNG",
+      "PackagePath": "staticwebassets\\images\\anhchup\\Capture.PNG"
+    },
+    {
       "Id": "D:\\github\\zakiet\\BaiTapKiemTra01\\wwwroot\\images\\client1.jpg",
       "PackagePath": "staticwebassets\\images\\client1.jpg"
     },
@@ -59,6 +63,10 @@
     {
       "Id": "D:\\github\\zakiet\\BaiTapKiemTra01\\wwwroot\\images\\hero-bg.png",
       "PackagePath": "staticwebassets\\images\\hero-bg.png"
+    },
+    {
+      "Id": "D:\\github\\zakiet\\BaiTapKiemTra01\\wwwroot\\images\\kb.jpg",
+      "PackagePath": "staticwebassets\\images\\kb.jpg"
     },
     {
       "Id": "D:\\github\\zakiet\\BaiTapKiemTra01\\wwwroot\\images\\next.png",

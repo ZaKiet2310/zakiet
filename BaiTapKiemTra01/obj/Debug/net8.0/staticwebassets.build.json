@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tEoiAu/NoSdkZjFZhpzsNljQnkPS38wd+l/d/JmumJw=",
+  "Hash": "JUgcgWq1sFj3blRds2SM4+ccHSxQPhM1vnGh1nK49G4=",
   "Source": "BaiTapKiemTra01",
   "BasePath": "_content/BaiTapKiemTra01",
   "Mode": "Default",
@@ -245,6 +245,25 @@
       "OriginalItemSpec": "wwwroot\\images\\about-img.png"
     },
     {
+      "Identity": "D:\\github\\zakiet\\BaiTapKiemTra01\\wwwroot\\images\\anhchup\\Capture.PNG",
+      "SourceId": "BaiTapKiemTra01",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\github\\zakiet\\BaiTapKiemTra01\\wwwroot\\",
+      "BasePath": "_content/BaiTapKiemTra01",
+      "RelativePath": "images/anhchup/Capture.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\anhchup\\Capture.PNG"
+    },
+    {
       "Identity": "D:\\github\\zakiet\\BaiTapKiemTra01\\wwwroot\\images\\client1.jpg",
       "SourceId": "BaiTapKiemTra01",
       "SourceType": "Discovered",
@@ -319,6 +338,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\hero-bg.png"
+    },
+    {
+      "Identity": "D:\\github\\zakiet\\BaiTapKiemTra01\\wwwroot\\images\\kb.jpg",
+      "SourceId": "BaiTapKiemTra01",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\github\\zakiet\\BaiTapKiemTra01\\wwwroot\\",
+      "BasePath": "_content/BaiTapKiemTra01",
+      "RelativePath": "images/kb.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\kb.jpg"
     },
     {
       "Identity": "D:\\github\\zakiet\\BaiTapKiemTra01\\wwwroot\\images\\next.png",
