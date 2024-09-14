@@ -5778,11 +5778,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\BaiTapVeNha02\\BaiTapVeNha02.csproj",
+      "projectUniqueName": "D:\\github\\zakiet\\BaiTapVeNha02\\BaiTapVeNha02.csproj",
       "projectName": "BaiTapVeNha02",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\BaiTapVeNha02\\BaiTapVeNha02.csproj",
+      "projectPath": "D:\\github\\zakiet\\BaiTapVeNha02\\BaiTapVeNha02.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\BaiTapVeNha02\\obj\\",
+      "outputPath": "D:\\github\\zakiet\\BaiTapVeNha02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

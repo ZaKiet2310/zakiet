@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\BaiTap05\\BaiTap05.csproj": {}
+    "D:\\github\\zakiet\\BaiTap05\\BaiTap05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\BaiTap05\\BaiTap05.csproj": {
+    "D:\\github\\zakiet\\BaiTap05\\BaiTap05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\BaiTap05\\BaiTap05.csproj",
+        "projectUniqueName": "D:\\github\\zakiet\\BaiTap05\\BaiTap05.csproj",
         "projectName": "BaiTap05",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\BaiTap05\\BaiTap05.csproj",
+        "projectPath": "D:\\github\\zakiet\\BaiTap05\\BaiTap05.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\BaiTap05\\obj\\",
+        "outputPath": "D:\\github\\zakiet\\BaiTap05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

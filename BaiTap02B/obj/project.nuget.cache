@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bewwkYiJPz8=",
+  "dgSpecHash": "wRYwhrrNWqE=",
   "success": true,
-  "projectFilePath": "D:\\LTW\\BaiTap02\\BaiTap02.csproj",
+  "projectFilePath": "D:\\github\\zakiet\\BaiTap02B\\BaiTap02.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\8.0.8\\microsoft.aspnetcore.mvc.razor.runtimecompilation.8.0.8.nupkg.sha512",

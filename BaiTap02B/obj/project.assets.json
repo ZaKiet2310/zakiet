@@ -940,11 +940,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LTW\\BaiTap02\\BaiTap02.csproj",
+      "projectUniqueName": "D:\\github\\zakiet\\BaiTap02B\\BaiTap02.csproj",
       "projectName": "BaiTap02",
-      "projectPath": "D:\\LTW\\BaiTap02\\BaiTap02.csproj",
+      "projectPath": "D:\\github\\zakiet\\BaiTap02B\\BaiTap02.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\LTW\\BaiTap02\\obj\\",
+      "outputPath": "D:\\github\\zakiet\\BaiTap02B\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

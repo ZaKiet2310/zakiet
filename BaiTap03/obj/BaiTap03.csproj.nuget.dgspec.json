@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\ASP-WEB1-aabc694c574841c6cc12fe4bf5658790e014cf6a\\ASP-WEB1-aabc694c574841c6cc12fe4bf5658790e014cf6a\\BaiTap03\\BaiTap03.csproj": {}
+    "D:\\github\\zakiet\\BaiTap03\\BaiTap03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\ASP-WEB1-aabc694c574841c6cc12fe4bf5658790e014cf6a\\ASP-WEB1-aabc694c574841c6cc12fe4bf5658790e014cf6a\\BaiTap03\\BaiTap03.csproj": {
+    "D:\\github\\zakiet\\BaiTap03\\BaiTap03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ASP-WEB1-aabc694c574841c6cc12fe4bf5658790e014cf6a\\ASP-WEB1-aabc694c574841c6cc12fe4bf5658790e014cf6a\\BaiTap03\\BaiTap03.csproj",
+        "projectUniqueName": "D:\\github\\zakiet\\BaiTap03\\BaiTap03.csproj",
         "projectName": "BaiTap03",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\ASP-WEB1-aabc694c574841c6cc12fe4bf5658790e014cf6a\\ASP-WEB1-aabc694c574841c6cc12fe4bf5658790e014cf6a\\BaiTap03\\BaiTap03.csproj",
+        "projectPath": "D:\\github\\zakiet\\BaiTap03\\BaiTap03.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\ASP-WEB1-aabc694c574841c6cc12fe4bf5658790e014cf6a\\ASP-WEB1-aabc694c574841c6cc12fe4bf5658790e014cf6a\\BaiTap03\\obj\\",
+        "outputPath": "D:\\github\\zakiet\\BaiTap03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
