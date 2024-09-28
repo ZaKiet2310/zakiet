@@ -1,28 +1,35 @@
-﻿@model TheLoai
-
+﻿@model LopHoc
 <div class="container">
-	<h3>Chỉnh sửa thể loại</h3>
+	<h3>Chỉnh sửa</h3>
 	<form method="post" asp-action="Edit">
 		<div asp-validation-summary="All" class="text-danger"></div>
 		<div class="form-group">
-			<label asp-for="Name">Tên thể loại</label>
-			<input asp-for="Name" type="text" class="form-control" />
-			<span asp-validation-for="Name" class="text-danger"></span>
+			<label asp-for="TenLopHoc">Tên lớp học</label>
+			<input asp-for="TenLopHoc" type="text" class="form-control" />
+			<span asp-validation-for="TenLopHoc" class="text-danger"></span>
 		</div>
 
 		<div class="from-group">
-			<label asp-for="DateCreated">Ngày tạo</label>
-			<input asp-for="DateCreated" type="date" class="form-control" />
-			<span asp-validation-for="DateCreated" class="text-danger"></span>
+			<label asp-for="NamNhapHoc">Năm nhập học</label>
+			<input asp-for="NamNhapHoc" type="text" class="form-control" />
+			<span asp-validation-for="NamNhapHoc" class="text-danger"></span>
 		</div>
 
 		<div class="form-group">
-			<label asp-for="Name">Nhà cung cấp</label>
-			<input asp-for="Suppliers" type="text" class="form-control" />
-			<span asp-validation-for="Suppliers" class="text-danger"></span>
+			<label asp-for="NamRaTruong">Năm ra trường</label>
+			<input asp-for="NamRaTruong" type="text" class="form-control" />
+			<span asp-validation-for="NamRaTruong" class="text-danger"></span>
+		</div>
+
+		<div class="form-group">
+			<label asp-for="SoLuongSinhVien">Số lượng sinh viên</label>
+			<input asp-for="SoLuongSinhVien" type="text" class="form-control" />
+			<span asp-validation-for="SoLuongSinhVien" class="text-danger"></span>
 		</div>
 
 		<button type="submit" class="btn btn-primary">Cập nhật</button>
+
+
 	</form>
 </div>
 @section Scripts {

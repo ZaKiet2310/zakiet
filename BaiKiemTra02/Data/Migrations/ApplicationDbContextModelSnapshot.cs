@@ -30,11 +30,13 @@ namespace BaiKiemTra02.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("NamNhapHoc")
-                        .HasColumnType("int");
+                    b.Property<string>("NamNhapHoc")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("NamRaTruong")
-                        .HasColumnType("int");
+                    b.Property<string>("NamRaTruong")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("SoLuongSinhVien")
                         .HasColumnType("int");
@@ -45,7 +47,7 @@ namespace BaiKiemTra02.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("lophoc");
+                    b.ToTable("LopHoc");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>

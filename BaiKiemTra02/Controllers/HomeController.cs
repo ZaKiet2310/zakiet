@@ -1,9 +1,8 @@
 using BaiKiemTra02.Models;
-using BaiTap07.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace BaiTap07.Controllers
+namespace BaiKiemTra02.Controllers
 {
 	public class HomeController : Controller
 	{
