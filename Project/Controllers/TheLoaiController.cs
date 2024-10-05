@@ -1,10 +1,11 @@
-﻿using Project.Data;
-using Project.Models;
+﻿using Project1.Data;
+using Project1.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace Project.Controllers
+namespace Project1.Controllers
 {
+	[Area("Admin")]
 	public class TheLoaiController : Controller
 	{
 		private readonly ApplicationDbContext _db;
@@ -72,18 +73,7 @@ namespace Project.Controllers
 			return View(theloai);
 		}
 		[HttpPost]
-        public IActionResult Search(String searchString)
-        {
-            if (!string.IsNullOrEmpty(searchString))
-            {
-                var theloai = _db.TheLoai.
-                    Where(tl => tl.Name.Contains(searchString)).ToList();
-
-                ViewBag.searchString = searchString;
-                ViewBag.TheLoai = theLoai;
-            }
-        }
-        public IActionResult DeleteConfirm(int id)
+		public IActionResult DeleteConfirm(int id)
 		{
 			var theloai = _db.TheLoai.Find(id);
 			if (theloai == null)
@@ -96,9 +86,8 @@ namespace Project.Controllers
 			return RedirectToAction("Index");
 		}
 		[HttpGet]
-        
 
-        public IActionResult Details(int id)
+		public IActionResult Details(int id)
 		{
 			if (id == 0)
 			{
@@ -108,7 +97,6 @@ namespace Project.Controllers
 			return View(theloai);
 		}
 		[HttpPost]
-		
 		public IActionResult Details(TheLoai theloai)
 		{
 			if (ModelState.IsValid)
@@ -120,6 +108,27 @@ namespace Project.Controllers
 				return RedirectToAction("Index");
 			}
 			return View();
+		}
+		[HttpGet]
+
+		public IActionResult Search(string searchString)
+		{
+			if (!string.IsNullOrEmpty(searchString))
+			{
+				//Sử dụng LINQ để tìm kiếm
+				var theloai = _db.TheLoai.Where(tl => tl.Name.Contains(searchString)).ToList();
+
+				ViewBag.SearchString = searchString;
+				ViewBag.TheLoai = theloai;
+
+			}
+			else
+			{
+				var theloai = _db.TheLoai.ToList();
+				ViewBag.TheLoai = theloai;
+			}
+
+			return View("Index");//Sử dụng lại view INdex
 		}
 	}
 }
