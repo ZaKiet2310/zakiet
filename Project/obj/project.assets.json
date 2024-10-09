@@ -8239,11 +8239,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Project\\Project1.csproj",
+      "projectUniqueName": "D:\\github\\zakiet\\Project\\Project1.csproj",
       "projectName": "Project1",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Project\\Project1.csproj",
+      "projectPath": "D:\\github\\zakiet\\Project\\Project1.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Project\\obj\\",
+      "outputPath": "D:\\github\\zakiet\\Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
