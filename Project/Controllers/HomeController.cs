@@ -36,5 +36,18 @@ namespace Project1.Controllers
 		{
 			return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
 		}
-	}
+
+		[HttpGet]
+        public IActionResult Details(int id)
+        {
+            var sanpham = _db.SanPham.FirstOrDefault(sp => sp.Id == id);
+            if (sanpham == null)
+            {
+                return NotFound();
+            }
+            
+            return View(sanpham);
+        }
+
+    }
 }

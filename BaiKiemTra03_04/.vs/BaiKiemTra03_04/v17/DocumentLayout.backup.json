@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "D:\\github\\zakiet\\BaiKiemTra03_04\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|d:\\github\\zakiet\\baikiemtra03_04\\data\\migrations\\20241011024750_baikiemtra04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|solutionrelative:data\\migrations\\20241011024750_baikiemtra04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|d:\\github\\zakiet\\baikiemtra03_04\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|solutionrelative:views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|d:\\github\\zakiet\\baikiemtra03_04\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|d:\\github\\zakiet\\baikiemtra03_04\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|d:\\github\\zakiet\\baikiemtra03_04\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|d:\\github\\zakiet\\baikiemtra03_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|d:\\github\\zakiet\\baikiemtra03_04\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|d:\\github\\zakiet\\baikiemtra03_04\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|d:\\github\\zakiet\\baikiemtra03_04\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|d:\\github\\zakiet\\baikiemtra03_04\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,18 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|d:\\github\\zakiet\\baikiemtra03_04\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|d:\\github\\zakiet\\baikiemtra03_04\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|d:\\github\\zakiet\\baikiemtra03_04\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|d:\\github\\zakiet\\baikiemtra03_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFA5E97E-2D01-4F0D-935B-E22B399A1D0E}|BaiKiemTra03_04.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\github\\zakiet\\BaiKiemTra03_04\\Data\\Migrations\\20241009063833_KiemTra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,20 +82,80 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241011024750_baikiemtra04.cs",
+              "DocumentMoniker": "D:\\github\\zakiet\\BaiKiemTra03_04\\Data\\Migrations\\20241011024750_baikiemtra04.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241011024750_baikiemtra04.cs",
+              "ToolTip": "D:\\github\\zakiet\\BaiKiemTra03_04\\Data\\Migrations\\20241011024750_baikiemtra04.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241011024750_baikiemtra04.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:47:50.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\github\\zakiet\\BaiKiemTra03_04\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\github\\zakiet\\BaiKiemTra03_04\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:46:05.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\github\\zakiet\\BaiKiemTra03_04\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\github\\zakiet\\BaiKiemTra03_04\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:45:46.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\github\\zakiet\\BaiKiemTra03_04\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\github\\zakiet\\BaiKiemTra03_04\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T02:44:50.918Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\github\\zakiet\\BaiKiemTra03_04\\Views\\Supplier\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Supplier\\Index.cshtml",
+              "ToolTip": "D:\\github\\zakiet\\BaiKiemTra03_04\\Views\\Supplier\\Index.cshtml",
+              "RelativeToolTip": "Views\\Supplier\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T15:20:20.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\github\\zakiet\\BaiKiemTra03_04\\Views\\Order\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Order\\Create.cshtml",
               "ToolTip": "D:\\github\\zakiet\\BaiKiemTra03_04\\Views\\Order\\Create.cshtml",
               "RelativeToolTip": "Views\\Order\\Create.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-09T08:10:05.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T08:10:05.294Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\github\\zakiet\\BaiKiemTra03_04\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -83,12 +163,11 @@
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-09T08:10:04.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T08:10:04.274Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\github\\zakiet\\BaiKiemTra03_04\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -96,21 +175,19 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-09T08:10:01.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T08:10:01.858Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\github\\zakiet\\BaiKiemTra03_04\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
               "ToolTip": "D:\\github\\zakiet\\BaiKiemTra03_04\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-09T08:09:55.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T08:09:55.627Z"
             },
             {
               "$type": "Document",
@@ -120,14 +197,13 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\github\\zakiet\\BaiKiemTra03_04\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T06:44:51.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T06:44:51.474Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": ".gitignore",
               "DocumentMoniker": "D:\\github\\zakiet\\BaiKiemTra03_04\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -135,34 +211,30 @@
               "RelativeToolTip": ".gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
-              "WhenOpened": "2024-10-09T06:44:46.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T06:44:46.994Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "20241009063833_KiemTra.cs",
               "DocumentMoniker": "D:\\github\\zakiet\\BaiKiemTra03_04\\Data\\Migrations\\20241009063833_KiemTra.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20241009063833_KiemTra.cs",
               "ToolTip": "D:\\github\\zakiet\\BaiKiemTra03_04\\Data\\Migrations\\20241009063833_KiemTra.cs",
               "RelativeToolTip": "Data\\Migrations\\20241009063833_KiemTra.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T06:38:33.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T06:38:33.695Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\github\\zakiet\\BaiKiemTra03_04\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\github\\zakiet\\BaiKiemTra03_04\\appsettings.json*",
-              "RelativeToolTip": "appsettings.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACVAAAAAAAAAA==",
+              "ToolTip": "D:\\github\\zakiet\\BaiKiemTra03_04\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-09T06:31:15.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T06:31:15.362Z"
             }
           ]
         },
