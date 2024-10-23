@@ -7,7 +7,7 @@ namespace Project1.Models
         [Key]
         public int Id { get; set; }
 
-        [Required(ErrorMessage ="Không được để trông tên thể loại")]
+        [Required(ErrorMessage ="Không được để trống tên thể loại")]
         [Display(Name="Thể Loại")]
         public string Name { get; set; }
 

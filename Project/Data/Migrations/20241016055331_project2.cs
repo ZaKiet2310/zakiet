@@ -5,7 +5,7 @@
 namespace Project1.Data.Migrations
 {
     /// <inheritdoc />
-    public partial class project1 : Migration
+    public partial class project2 : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
